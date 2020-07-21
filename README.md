@@ -5,6 +5,6 @@
 )
 
 <h1 align="center">💇🏻‍♂️ <i>Sobre o Projeto</h1>
-<h2 align="center">Site desenvolvido com HTML e CSS utilizando flexbox para posicionamento em tela.</h2>
+<h2 align="center">Projeto desenvolvido com HTML e CSS utilizando flexbox para posicionamento em tela.</h2>
 
 <h2 align="center"> Feito por Diego Botelho de Souza 🚀</h2>
